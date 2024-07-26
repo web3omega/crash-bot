@@ -1,0 +1,5 @@
+node_modules
+.cache
+.env*
+*.0
+keypair.json
